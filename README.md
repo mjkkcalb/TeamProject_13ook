@@ -370,6 +370,6 @@
   <h3 style="font-size: 24px;">🎈PPT 바로가기</h3>
 </a>
 
-<a href="https://port-0-back-5r422alqn1n0hw.sel4.cloudtype.app/" target="_blank">
+
   ### ✨Project site(매일 새벽에 서버가 꺼짐): [click🌐](https://port-0-mongodb-5r422alqm2rj1x.sel4.cloudtype.app/)
-</a>
+
