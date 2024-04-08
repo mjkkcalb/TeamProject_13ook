@@ -366,13 +366,9 @@
     - 마무리 작업 중 디자인에 대해 개선해야할 점을 파악하여 수정
 </details>
 
-<a href="https://www.canva.com/design/DAF3mOtQdXU/ijg6ojOI_cydSub4Av5riA/view?utm_content=DAF3mOtQdXU&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
-  
-  <h3 style="font-size: 24px;">🎈PPT 바로가기</h3>
-</a>
+### [🎈PPT 바로가기](https://www.canva.com/design/DAF3mOtQdXU/ijg6ojOI_cydSub4Av5riA/view?utm_content=DAF3mOtQdXU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-
-  ### ✨Project site(매일 새벽에 서버가 꺼짐): [click🌐](https://port-0-mongodb-5r422alqm2rj1x.sel4.cloudtype.app/)
+### ✨Project site(매일 새벽에 서버가 꺼짐): [click🌐](https://port-0-mongodb-5r422alqm2rj1x.sel4.cloudtype.app/)
 
 ID : 111 <br>
 PW : 111
